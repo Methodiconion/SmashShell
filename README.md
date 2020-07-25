@@ -1,3 +1,10 @@
+EDIT:
+	This is my original readme, but man this code is MESSY. I can see myself going back and rewriting this to be
+	more clear in the future but for now I will frame this as my headspace from sophmore year of college in 2019.
+	I unfortunately do not think this is the final version of this project, I think I lost that code on my college's
+	server. However, this is fairly close. I apologize for any bugs. (I recall being proud that my implementation
+	didn't lock up in some insane corner cases where the official linux one did.)
+
 NAME
 	smash - command shell based upon the linux version of the name "bash".
 
